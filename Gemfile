@@ -25,6 +25,7 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 gem 'materialize-sass', '~> 1.0.0'
+gem 'material_icons'
 
 gem 'devise'
 
